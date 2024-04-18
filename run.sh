@@ -1,0 +1,1 @@
+sh ./speedtest.EU.sh
